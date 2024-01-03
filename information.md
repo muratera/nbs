@@ -1,4 +1,4 @@
-<img src="https://i.hizliresim.com/qtjo54z.png" alt="GLADIATOR DUELS" width="320" height="180">
+<p style="background-image: url('https://i.hizliresim.com/qtjo54z.png');">
 # WELCOME TO THE **Gladiator Duels**
 <a id="GLADIATOR DUELS DISCORD">https://discord.gg/ggpbMYeEBH</>
 
