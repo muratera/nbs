@@ -16,19 +16,6 @@
 - Rocks, Crossbows, Bear Traps, Toolboxes and Fire & Smoke Bombs are not allowed.
 - If additional moderation is required, type requestadmin in chat to request.
 
-# VIP INFORMATION
-
-Support Gladiator Duels With a one-time donation of €10
-The vip commands on the server are as follows:
-
-- .vresize
-- .vresizewp
-- .vgivewp list & .vgivewp [name]
-- .gravity
-- .wackstick
-- .cvk
-- .tpp
-- .pavise
-- .food
+# If you wanna be VIP join to us Discord server.
 
 Created by Sulla
