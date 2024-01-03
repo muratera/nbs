@@ -1,3 +1,4 @@
+![GLADIATOR DUELS](https://cdn.discordapp.com/attachments/1188138455289565194/1192065280529137735/qi2dmqb14nx61.png?ex=65a7b84e&is=6595434e&hm=f1c6116473a2da3440753a43d6ff4e29ebe1d75d1cbddf78e60e310a2c7bd5af&)
 # WELCOME TO THE **Gladiator Duels**
 <a id="GLADIATOR DUELS DISCORD">https://discord.gg/ggpbMYeEBH</>
 
