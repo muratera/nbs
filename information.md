@@ -19,19 +19,15 @@
 
 Support Gladiator Duels With a one-time donation of €10
 The vip commands on the server are as follows:
-.vresize
-.vresizewp
-.vgivewp list & .vgivewp [name]
-.gravity
-.wackstick
-.cvk
-.tpp
-.pavise
-.food
-Help
-.Clone
-tp
-tp list
-FT10
+
+- .vresize
+- .vresizewp
+- .vgivewp list & .vgivewp [name]
+- .gravity
+- .wackstick
+- .cvk
+- .tpp
+- .pavise
+- .food
 
 Created by Sulla
