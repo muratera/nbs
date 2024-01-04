@@ -1,10 +1,4 @@
 ![ ](https://i.hizliresim.com/dgdgelu.png)
-<style>
-  body {
-    background-image: url('https://i.hizliresim.com/dgdgelu.png');
-    background-size: cover;
-  }
-</style>
 # WELCOME TO THE **GLADIATOR DUELS**
 <a id="GLADIATOR DUELS DISCORD">https://discord.gg/ggpbMYeEBH</>
 
