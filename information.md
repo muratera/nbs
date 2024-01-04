@@ -16,6 +16,6 @@
 - Rocks, Crossbows, Bear Traps, Toolboxes and Fire & Smoke Bombs are not allowed.
 - If additional moderation is required, type requestadmin in chat to request.
 
-# If you wanna be VIP join to us Discord server.
+# If you wanna be VIP join to us Discord server for more information.
 
 Created by Sulla
