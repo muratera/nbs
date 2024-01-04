@@ -1,8 +1,14 @@
-![Seymour](https://i.hizliresim.com/qtjo54z.png)
-# WELCOME TO THE **Gladiator Duels**
+![ ](https://i.hizliresim.com/dgdgelu.png)
+<style>
+  body {
+    background-image: url('https://i.hizliresim.com/dgdgelu.png');
+    background-size: cover;
+  }
+</style>
+# WELCOME TO THE **GLADIATOR DUELS**
 <a id="GLADIATOR DUELS DISCORD">https://discord.gg/ggpbMYeEBH</>
 
-# GLADIATOR DUELS GAME RULES
+# GAME RULES
 
 - Do not discriminate against someone's race, religion etc. 
 - Do not FFA, Revenge FFA or Mass FFA. 
