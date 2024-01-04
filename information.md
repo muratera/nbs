@@ -1,4 +1,4 @@
-![ ](https://i.hizliresim.com/q00lavm.png)
+![ ](https://i.hizliresim.com/vi8mwdj.png)
 # WELCOME TO THE **GLADIATOR DUELS**
 <a id="GLADIATOR DUELS DISCORD">https://discord.gg/ggpbMYeEBH</>
 
