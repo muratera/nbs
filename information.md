@@ -1,6 +1,6 @@
-![ ](https://i.hizliresim.com/vi8mwdj.jpg)
-# WELCOME TO THE **GLADIATOR DUELS**
-<a id="GLADIATOR DUELS DISCORD">https://discord.gg/ggpbMYeEBH</>
+![ ]()
+# WELCOME TO THE **NOVICE DUELS**
+<a id="NOVICE DUELS DISCORD">https://discord.gg/ggpbMYeEBH</>
 
 # GAME RULES
 
