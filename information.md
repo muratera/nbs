@@ -1,21 +1,31 @@
-![ ](https://i.hizliresim.com/vi8mwdj.jpg)
-# WELCOME TO THE **GLADIATOR DUELS**
-<a id="GLADIATOR DUELS DISCORD">https://discord.gg/ggpbMYeEBH</>
-
-# GAME RULES
-
-- Do not discriminate against someone's race, religion etc. 
-- Do not FFA, Revenge FFA or Mass FFA. 
-- Do not force anyone to duel with kicks, feints, etc. 
-- Be respectful, and do not bully any other player or staff member. 
-- Do not walk into duels. 
-- Friendly FFA is allowed but only when done in a TP away from the main map. 
-- Advertising is prohibited. 
-- Third party applications, or other forms of cheating, are not allowed. 
-- Excessive swearing and toxicity is prohibited. 
-- Rocks, Crossbows, Bear Traps, Toolboxes and Fire & Smoke Bombs are not allowed.
-- If additional moderation is required, type requestadmin in chat to request.
-
-# If you wanna be VIP join to us Discord server for more information.
-
-Created by Sulla
+![Noobs Duels Kingdom](https://i.postimg.cc/RZRcFSbV/mordhau-knight-halberd-banner.jpg)
+# WELCOME TO THE **Noobs Duels Server**
+<a id="NOOBS DUELS DISCORD">https://discord.gg/noobs</>
+## Become a vip member[more info on discord]
+   *Vip Programs
+   *Vip Benefits
+   *Vip support
+   *Vip commands
+## Events
+   *FFA Custom arenas
+   *Boss Events
+   *Vip events
+   *Boxing events
+# **THE RULES:**
+1. *NO TOXICITY*.
+   *NO FFA*.
+   *NO CHEATS*.
+   *NO TROLLS and BULLYING*.
+   *NO RACISM*.
+2. This is a *DUEL* SERVER. NO **FFA** only 1v1 duels
+3. Smoke bombs, fire bombs, bear traps, bows and toolbox are NOT allowed !!!
+4. Respect all players and Staff !
+## Server info
+- Location GERMANY
+- Tickrate unlocked [currect 60 for test]
+- Server CPU INTEL I7 [20 cores]
+- Server RAM 128GB
+- Slots 64
+![ROME](https://i.postimg.cc/4ycQq2qq/ss-fa8ee3890cfcd17325e0e54371aed2a70ea60388-1920x1080.jpg)
+Have fun!
+created by Muratera
