@@ -17,7 +17,7 @@
 
 ### Don't forget to join our Discord Community
 
-[![Discord](https://yourimageurl.com/discord.png)](https://discord.gg/bxgQyMxvTC)
+[![Discord](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUST4RKt42EfYGatQecAsirMI837zfKSbpQ&s)](https://discord.gg/bxgQyMxvTC)
 
 ---
 
