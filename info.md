@@ -15,7 +15,7 @@
  
  ### Don't forget to join our Discord Community
  
- [![](https://cdn.discordapp.com/emojis/894315784610930718.png?size=512)](https://discord.gg/bxgQyMxvTC)
+ ![](https://cdn.discordapp.com/emojis/894315784610930718.png?size=512)](https://discord.gg/bxgQyMxvTC)
  
  ---
  
