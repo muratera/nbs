@@ -1,5 +1,7 @@
-![Left Image](https://cdn.discordapp.com/attachments/1352374543070658692/1352823638243676234/Tribe2.png?ex=67df6ab1&is=67de1931&hm=3e60451e3c438685276304d487b7b1c0917dcdad1fc9963dce9b0f7f13a6baf2&)  
-![Right Image](https://cdn.discordapp.com/attachments/1352374543070658692/1352823658527195267/Tribe.png?ex=67df6ab6&is=67de1936&hm=b6ebc0d57e74491a4b4f727a51bd7d031d8cb783a96d4ea9f5685f9cb09691b1&)
+<p align="center">
+    <img src="https://cdn.discordapp.com/attachments/1352374543070658692/1352823638243676234/Tribe2.png?ex=67df6ab1&is=67de1931&hm=3e60451e3c438685276304d487b7b1c0917dcdad1fc9963dce9b0f7f13a6baf2&" alt="Left Image" width="45%">
+    <img src="https://cdn.discordapp.com/attachments/1352374543070658692/1352823658527195267/Tribe.png?ex=67df6ab6&is=67de1936&hm=b6ebc0d57e74491a4b4f727a51bd7d031d8cb783a96d4ea9f5685f9cb09691b1&" alt="Right Image" width="45%">
+</p>
 
 ---
 
