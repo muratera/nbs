@@ -3,7 +3,7 @@
  
  ---
  
- ### Server Rules
+ ###                         Server Rules
  
  - Do not interrupt duels  
  - No smokes, bombs, bear traps shits at the center of the map   
@@ -19,4 +19,4 @@
  
  ---
  
- ### Developed by Muratera
+ ###                 Developed and Created by Muratera
