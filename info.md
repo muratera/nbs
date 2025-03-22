@@ -1,6 +1,5 @@
-[![Image](https://i.hizliresim.com/jtw6f35.png)](https://hizliresim.com/jtw6f35)
-[![Image](https://i.hizliresim.com/bkyn0vh.png)](https://hizliresim.com/bkyn0vh)
- 
+![Tribe](https://i.postimg.cc/g04b9yYJ/Tribe.png)
+
  ---
  
  ###                         Server Rules
@@ -16,5 +15,5 @@
 <a id="Dont forget to Join our Discord Community">https://discord.gg/bxgQyMxvTC</>
  
  ---
- 
+ ![Tribe2](https://i.postimg.cc/3RcMNK0Q/Tribe2.png)
  ###                 Developed and Created by Muratera
